@@ -1,12 +1,12 @@
 # hellospring
 
 ●hellospring1
-
+    
     |-- Web  Application Context 
       (spring-servlet.xml <- ClassPathWebXmlApplicationContext)
 
 ●hellospring2
- 
+
     |-- Web  Application Context 
       (WebConfig.java <- AnnotationConfigWebApplicationContext)
 
