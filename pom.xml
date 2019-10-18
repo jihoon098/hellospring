@@ -10,6 +10,7 @@
 	<modules>
 		<module>hellospring1</module>
 		<module>hellospring2</module>
+		<module>hellospring3</module>
 	</modules>
 
 	<properties>
